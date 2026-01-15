@@ -1,0 +1,9 @@
+Milestone,Start_week,Duration_weeks,Owner,Notes
+Kickoff & alignment,0,1,PM DiverCidade; Sponsor Arco,Alinhamento de expectativas e escopo
+Diagnóstico (Etapa 1),1,6,PM DiverCidade / RH Arco,Coleta de dados, entrevistas e baseline
+Sensibilização (bloco inicial),7,4,Lead de Treinamento,2 sessões piloto + ajustes
+Formação de Lideranças (rollout),11,8,Lead de Treinamento,Treinamentos modulares por área
+Conteúdo LMS — desenvolvimento,9,12,Coordenador LMS / Equipe de Conteúdo,Roteirização, produção e QA de acessibilidade
+Deploy LMS & validação Comitê,21,4,Coordenador LMS / Comitê PcD,Teste de acessibilidade e aprovação
+Consultoria contínua (go-live),25,28,Consultores DiverCidade,Suporte e ajustes mensais
+Revisão final & entrega contract-ready,52,2,PM DiverCidade,Versão final e anexos
